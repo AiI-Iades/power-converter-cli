@@ -1,2 +1,1 @@
-# power-converter-cli
-CLI tool for converting power units (W, HP, kW, etc.)
+# Power Converter CLI\nConvert between power units like watts (W), horsepower (HP), and kilowatts (kW).\n\nUsage: `power-converter <value> <from-unit> <to-unit>`\nExample: `power-converter 1 HP W`
